@@ -1,5 +1,4 @@
-Program sederhana untuk menentukan bilangan terbesar 
-Coding
+# Program sederhana untuk menentukan bilangan terbesar Coding
 
 print ('=====================================')
 print ('PROGRAM MENENTUKAN BILANGAN TERBESAR')
