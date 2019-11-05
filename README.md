@@ -1,8 +1,11 @@
 # Program sederhana untuk menentukan bilangan terbesar Coding
 
 print ('=====================================')
+
 print ('PROGRAM MENENTUKAN BILANGAN TERBESAR')
+
 print ('=====================================')
+
 print ('')
 print ('Masukkan 3 Bilangan yang diinginkan!')
 a=int(input('Bilangan 1 = '))
@@ -36,13 +39,13 @@ print ('=====================================')
 
 Penjelasan
 
-Pertama kita harus menginput bilangan pertama sampai bilangan ketiga. Codingnya :
+1.Pertama kita harus menginput bilangan pertama sampai bilangan ketiga. Codingnya :
 
 a=int(input(‘Bilangan 1 = ‘))
 b=int(input(‘Bilangan 2 = ‘))
 c=int(input(‘Bilangan 3 = ‘))
 
-Selanjutnya kita menggunakan logika if dan Logika AND. Codingnya :
+2.Selanjutnya kita menggunakan logika if dan Logika AND. Codingnya :
 
 if a>b and a>c:
 print (a, ‘Adalah Bilangan terbesar’)
